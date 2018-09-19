@@ -1,4 +1,4 @@
-package eu.relsys.swoosh
+package eu.relsys.swoosh.Controller
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
